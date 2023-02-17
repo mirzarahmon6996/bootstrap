@@ -1,0 +1,18 @@
+.header-hover a {
+    color: rgb(204, 194, 194);
+}
+
+.header-hover a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: none;
+    background-color: rgb(153, 210, 238);
+}
+
+.restart:hover {
+    transform: translateY(-10px);
+    transition: all ease 0.8s;
+}
